@@ -5,7 +5,7 @@ Open the file with name Directing Customers To Subscription to access Jupyter No
 
 In my Machine Learning Project I have achieved  78.87% accuracy which is good for 'Directing Customers to Subscription Through Financial App Behavior Analysis' problem statement
 
-All the further details are mentioned in jupyter file 
+All the further details are mentioned in jupyter file with name "Directing Customers To Subscription Through Financial App Behaviour Analysis (1).ipynb"
 
 As Data set is very I have uploaded its link
 Link to Data Set
