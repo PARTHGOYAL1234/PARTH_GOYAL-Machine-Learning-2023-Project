@@ -11,7 +11,8 @@ This is an classification type problem
 
 All the further details are mentioned in jupyter file with name "Directing Customers To Subscription Through Financial App Behaviour Analysis (1).ipynb"
 
-As Data set is very I have uploaded its link
+As Data set is very big  I have uploaded its link
+
 Link to Data Set
 
 https://drive.google.com/drive/folders/1RDvO375O4eJmqYw3TvyMsy48--bj0HSd?usp=share_link
