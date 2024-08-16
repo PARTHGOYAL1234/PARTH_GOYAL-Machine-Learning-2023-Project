@@ -5,7 +5,7 @@ Open the file with name Directing Customers To Subscription to access Jupyter No
 
 In my Machine Learning Project I have achieved  78.87% accuracy which is good for 'Directing Customers to Subscription Through Financial App Behavior Analysis' 
 
-Problem Statement/Goal - The "FinTech" company launch there android and IOS mobile base app and want to grow there business.But there is problem how to recommended this app and offer who really want to use it.So for that company decided to give free trial each and every customer for 24 hours and collect data from the customers.In this scenario some customer purchase the app and someone not.According to this data company want to give special offer to the customer who are not interested to buy without offer and grow the business
+Problem Statement/Goal -Problem Statement/Goal -The "FinTech" firm has introduced its Android and iOS mobile application and aims to expand its business. However, they face a challenge in effectively promoting the app and targeting users who genuinely desire to use it. To tackle this issue, the company has come up with a strategy: offering a free trial to every customer for 24 hours while gathering valuable data from them. Based on the data analysis, the company observes that some customers make a purchase, while others do not. Leveraging this information, the company plans to provide special offers to those customers who showed no interest in buying initially, thus fostering business growth.
 
 This is an classification type problem
 
